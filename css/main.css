@@ -605,7 +605,7 @@ h1 {
 }
 
 .hero--bgimg {
-  background-image: url(../../images/hero-small.svg);
+  background-image: url(/images/hero-small.svg);
   background-repeat: no-repeat;
   background-size: cover;
   width: 100%;
@@ -626,7 +626,7 @@ h1 {
     margin: 10rem auto;
   }
   .hero--bgimg {
-    background-image: url(../../images/hero-big.svg);
+    background-image: url(/images/hero-big.svg);
   }
   .hero h1 {
     font-size: 38rem;
