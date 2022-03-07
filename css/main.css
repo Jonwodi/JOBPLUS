@@ -12,12 +12,12 @@
 
 @font-face {
   font-family: "Open Sans";
-  src: url(../../fonts/OpenSans-Regular.ttf);
+  src: url(../fonts/OpenSans-Regular.ttf);
 }
 
 @font-face {
   font-family: "OpenSans ExtraBold";
-  src: url(../../fonts/OpenSans-ExtraBold.ttf);
+  src: url(../fonts/OpenSans-ExtraBold.ttf);
 }
 
 /*! normalize.css v8.0.1 | MIT License | github.com/necolas/normalize.css */
@@ -605,7 +605,7 @@ h1 {
 }
 
 .hero--bgimg {
-  background-image: url(https://jonwodi.github.io/JOBPLUS-Project//images/hero-small.svg);
+  background-image: url(../images/hero-small.svg);
   background-repeat: no-repeat;
   background-size: cover;
   width: 100%;
@@ -626,7 +626,7 @@ h1 {
     margin: 10rem auto;
   }
   .hero--bgimg {
-    background-image: url(https://jonwodi.github.io/JOBPLUS-Project//images/hero-big.svg);
+    background-image: url(../images/hero-big.svg);
   }
   .hero h1 {
     font-size: 38rem;
